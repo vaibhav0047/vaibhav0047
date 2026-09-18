@@ -20,7 +20,7 @@
 -->
 
 <div align="center">
-    <img src="https://drive.google.com/file/d/1JjBIcoMXtVOTpgWw8xwRICZXvLwPakFo/view?usp=sharing" alt="About Vaibhav Terminal GIF" width="80%"/>
+    <img src="assets/about_vaibhav.gif" alt="About Vaibhav Terminal GIF" width="80%"/>
 </div>
 
 ---
