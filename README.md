@@ -6,7 +6,7 @@
     Don't forget to connect with me on LinkedIn and check out my projects below :))
 -->
 
-<img width="100%" src="https://drive.google.com/file/d/1JjBIcoMXtVOTpgWw8xwRICZXvLwPakFo/view?usp=sharing" alt="header"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:091e3a,100:2563eb&height=130&section=header" alt="header"/> 
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -20,7 +20,7 @@
 -->
 
 <div align="center">
-    <img src="./assets/about_vaibhav.gif" alt="About Vaibhav Terminal GIF" width="80%"/>
+    <img src="https://drive.google.com/file/d/1JjBIcoMXtVOTpgWw8xwRICZXvLwPakFo/view?usp=sharing" alt="About Vaibhav Terminal GIF" width="80%"/>
 </div>
 
 ---
