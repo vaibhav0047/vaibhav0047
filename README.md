@@ -27,7 +27,6 @@
 
 ### 👨‍💻 About Me
 - 🎓 **B.Tech Student** at **Dr. B.R. Ambedkar National Institute of Technology, Jalandhar** (NIT Jalandhar) *(2023 – 2027)*
-- 💼 **Ex-SDE Intern** at **Utkrushta AI** | Core Full Stack Developer at **XCEED NITJ**
 - 🚀 Experienced in architecting **distributed MERN platforms**, microservices on **GCP & Docker**, and asynchronous event-driven pipelines
 - 🧠 Active contributor to **Agentic AI** & open source (LangChain, LangGraph orchestration)
 - 🏆 Solved **500+ DSA problems** across LeetCode, CodeChef, and Codeforces
